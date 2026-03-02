@@ -1,4 +1,4 @@
-.header {
+header.dashboard-header nav #header {
     background-image: url('https://assets-us-01.kc-usercontent.com/6239a81e-8f0f-0040-a1df-b4932a10f6ae/261e0bb6-68dd-4f07-8798-cce9b0c42cc3/logo.svg%27) !important;
     /* Adjust height/width as needed */
     height: 40px;
@@ -6,4 +6,5 @@
     background-size: contain;
     background-repeat: no-repeat;
 }
+
  
